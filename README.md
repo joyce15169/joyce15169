@@ -1,9 +1,9 @@
 
-# 👋 你好，我是 Joyce
+# Hello
 
 ## 🧑‍💻 關於我
-- 🔭 我目前正就讀資訊管理學系 
-- 🌱 我正在學習程式的開發與app設計AI應用
+- 🔭 目前正就讀資訊管理學系 
+- 🌱 正在學習程式的開發與app設計AI應用
 
 ## 🛠️ 技術與工具
 <p align="center">
@@ -18,11 +18,6 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-## 📊 GitHub 統計
-![你的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=你的使用者名稱&show_icons=true&theme=radical)
-
-## 🔝 最常使用的語言
-![最常使用的語言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的使用者名稱&layout=compact&theme=radical)
 
 ## 🚀 精選專案
 ### [專案名稱 1](專案連結)
