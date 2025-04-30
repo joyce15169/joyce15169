@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Joyce!</h1>
 <p align="center">
-  📚 Junior @ Chung Yuan Christian University  
-  💻 Department of Information Management  
-  🌱 Learning Flutter, App Design, and AI Application Development
-</p>
+  <p>📚 Junior @ Chung Yuan Christian University </p> 
+  <p>💻 Department of Information Management  </p>
+  <p>🌱 Learning Flutter, App Design, and AI Application Development</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+%2B+AI+%2B+HealthTech;Always+Learning%2C+Always+Building" alt="Typing SVG" />
