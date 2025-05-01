@@ -1,3 +1,4 @@
+<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi there 👋, I'm Joyce!</h1>
 <p align="center">
   🎓 Junior @ Chung Yuan Christian University  
